@@ -22,6 +22,6 @@ function deleteFromObjectByKey(object, key){
   
 }
 
-function {
+function (object, key, value){
   
 }
