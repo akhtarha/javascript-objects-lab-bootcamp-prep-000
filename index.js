@@ -22,6 +22,6 @@ function deleteFromObjectByKey(object, key){
   
 }
 
-function (object, key, value){
+function destructivelyDeleteFromObjectByKey(object, key){
   
 }
